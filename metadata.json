@@ -1,0 +1,6 @@
+{
+  "name": "AURA Concept Store",
+  "description": "Концептуальный интернет-магазин с каталогом, интерактивной корзиной, пошаговым оформлением заказов и панелью управления товарами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
